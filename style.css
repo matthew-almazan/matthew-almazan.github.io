@@ -1,5 +1,12 @@
 h1 {
-font.weight:italic}
+font.weight:bold}
+
+p {
+border: 1px solid black;
+padding: 101px
+width: 500
+height:500
+tex-align: justify}
 
 
 
